@@ -1,4 +1,4 @@
-test-repo
+Coursera: Data Analysis
 =========
 
 Unfollow the white rabbit
